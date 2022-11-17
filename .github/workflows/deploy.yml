@@ -17,7 +17,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.81.0'
+          hugo-version: '0.105.0'
           extended: true
 
       - name: Build
@@ -26,8 +26,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: xcbeyond/xcbeyond.github.io # 修改为自己的地址
+          external_repository: 513195902/513195902.github.io # 修改为自己的地址
           publish_dir: ./public
         #   keep_files: true
           publish_branch: master
-          cname: xcbeyond.cn # 如有独立域名，修改为自己的域名
+          cname: yycstudio.cn # 如有独立域名，修改为自己的域名
