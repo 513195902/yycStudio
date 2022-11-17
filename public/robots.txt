@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://513195902.github.io/yycStudio/sitemap.xml

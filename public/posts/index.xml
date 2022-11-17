@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on yycStudio</title>
+    <link>https://513195902.github.io/yycStudio/posts/</link>
+    <description>Recent content in Posts on yycStudio</description>
+    <image>
+      <url>https://513195902.github.io/yycStudio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://513195902.github.io/yycStudio/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 20:04:25 +0800</lastBuildDate><atom:link href="https://513195902.github.io/yycStudio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstTest</title>
+      <link>https://513195902.github.io/yycStudio/posts/firsttest/</link>
+      <pubDate>Thu, 17 Nov 2022 20:04:25 +0800</pubDate>
+      
+      <guid>https://513195902.github.io/yycStudio/posts/firsttest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>这是第一篇测试文章</title>
+      <link>https://513195902.github.io/yycStudio/posts/yycquickstart/</link>
+      <pubDate>Thu, 17 Nov 2022 16:21:19 +0800</pubDate>
+      
+      <guid>https://513195902.github.io/yycStudio/posts/yycquickstart/</guid>
+      <description>这是第一篇测试文章的内容.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://513195902.github.io/yycStudio/posts/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://513195902.github.io/yycStudio/posts/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
