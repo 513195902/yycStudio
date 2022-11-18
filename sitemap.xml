@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/firsttest/</loc>
+    <loc>https://www.yycstudio.cn/posts/firsttest/</loc>
     <lastmod>2022-11-17T20:04:25+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://www.yycstudio.cn/posts/</loc>
     <lastmod>2022-11-17T20:04:25+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://www.yycstudio.cn/</loc>
     <lastmod>2022-11-17T20:04:25+08:00</lastmod>
   </url><url>
-    <loc>/posts/yycquickstart/</loc>
+    <loc>https://www.yycstudio.cn/posts/yycquickstart/</loc>
     <lastmod>2022-11-17T16:21:19+08:00</lastmod>
   </url><url>
-    <loc>/tags/first/</loc>
+    <loc>https://www.yycstudio.cn/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>/posts/page/</loc>
+    <loc>https://www.yycstudio.cn/posts/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://www.yycstudio.cn/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://www.yycstudio.cn/categories/</loc>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://www.yycstudio.cn/archives/</loc>
   </url>
 </urlset>
